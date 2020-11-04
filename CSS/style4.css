@@ -1,0 +1,49 @@
+*{
+	cursor: pointer;
+}
+body{
+	background-image: url(../CSS/img/background.JPG);
+	color: white;
+	text-align: center;
+}
+.div{
+	border-style: dotted;
+	text-align: justify;
+	width:300px;
+	margin:200px 1000px 50px;
+	margin-bottom: 150px;
+}
+.dlt{
+	text-shadow: -5px -5px 2px black;
+	font-size: 30px;
+}
+.two{
+	font-size: 20px;
+	text-align: center;
+	text-shadow: -5px -5px 2px black;
+	margin:1px 1px ;
+}
+#Un{
+	text-align: left;
+	margin:1px 1px 1px 0px;
+}
+.one{
+	font-size:15px;
+	text-shadow: -5px -5px 2px black;
+	margin-left: 2px;
+}
+#cancel{
+	margin-left:120px;
+}
+form{
+	text-align: center;
+	margin:10px;
+}
+.footer{
+	color:#5529b3;
+	background-color: white;
+	height:40px;
+	font-family: monospace;
+	font-size: 25px;
+	text-align: right;
+}

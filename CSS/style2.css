@@ -1,0 +1,27 @@
+*{
+	cursor: pointer;
+}
+
+
+.first{
+	font-size: 50px;
+	cursor: pointer;
+	width: 500px;
+	height: 300px;
+	background:rgba(36,95,127,0.5);
+	color:red;
+	border:5px;
+	border-style:dotted;
+	margin:100px auto;
+
+}
+.second{
+	color:green;
+	width:800px;
+	height:800px;
+	font-size: 40px;
+	background-image: url(../CSS/img/kyw.JPG);
+	background-repeat: no-repeat;
+	background-position: left;
+
+}

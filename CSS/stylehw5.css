@@ -1,0 +1,80 @@
+body{
+	background-color:black;
+	background-image: url(../CSS/img/background.JPG);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 650px;
+}
+.head{
+	font-size: 23px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+}
+div{
+    font-family: sans-serif;
+    color: black;
+	cursor: pointer;
+	width: 300px;
+	height: 630px;
+	background:white;
+	border:5px;
+	border-style: hidden ;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+    margin-top:200px ;
+    margin-left:650px ;
+}
+.box{
+    width: 280px;
+    height: 15px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-style: hidden;
+    font-size: 15px;
+}
+.box:hover{
+    border-style: hidden;
+}
+.btn{
+    width: 280px;
+    height: 30px;
+    background-color: rgb(6, 6, 102);
+    text-align: center;
+    margin-top:25px ;
+    margin-bottom:15px;
+    margin-left: 5px;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+}
+.btn:hover{
+	width: 285px;
+    height: 30px;
+    background-color: rgb(6, 6, 102);
+    transition: 0.8s;
+    font-size: 17px;
+    border-radius: 10px;
+}
+.pone{
+    font-size: 15px;
+    text-align: center;
+}
+
+.ptwo{
+    text-align: center;
+    font-size: 17px;
+}
+.pthree{
+    text-align: left;
+    font-size: 13px;
+    margin-left:5px;
+    line-height: 20px;
+}
+a{
+    text-decoration: none;
+}
